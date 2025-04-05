@@ -2590,11 +2590,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github Repository\\Main_Dotnet-main\\web_api.csproj",
+      "projectUniqueName": "D:\\Github Repository\\Dotnet_\\web_api.csproj",
       "projectName": "web_api",
-      "projectPath": "D:\\Github Repository\\Main_Dotnet-main\\web_api.csproj",
+      "projectPath": "D:\\Github Repository\\Dotnet_\\web_api.csproj",
       "packagesPath": "C:\\Users\\AvianaPhoenix\\.nuget\\packages\\",
-      "outputPath": "D:\\Github Repository\\Main_Dotnet-main\\obj\\",
+      "outputPath": "D:\\Github Repository\\Dotnet_\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
